@@ -1,10 +1,10 @@
 # backrest-playground [work in progress]
 ### What is this? 
-It's an environtment based on 2 Postgres virtual machines and 1 Pgbackrest conected to them in order to do backup, restore and demostrate some capabilities of this great backup tool.   
+It's and Pgbackrest environment conected with 2 Postgres clusters (VM) in order to do backup, restore and demostrate some capabilities of this great backup tool, like backup, delta restore, diferencial backups and so on. 
 
-
-to play with pgbackrest backups and restores. 
-We are using Vagrant to create environtment, as follow: 
+### Pre-requisites: 
+* Vagrant shuld be installed on you machine
+* Virtualization tool like Virtualbox, Hyperv
 
 ### How to use it? 
 
