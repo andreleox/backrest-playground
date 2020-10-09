@@ -21,7 +21,7 @@ vagrant up
 ```
 vagrant status
 ```
-4. Show status of your environment
+4. Acessing pgbackrest virtual machine
 ```
 vagrant ssh backrest1
 sudo su - backrest 
