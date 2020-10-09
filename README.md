@@ -26,3 +26,6 @@ vagrant status
 vagrant ssh backrest1
 sudo su - backrest 
 ```
+
+### Basics 
+[Mindmap](https://github.com/andreleox/backrest-playground/blob/master/backrest.png)
