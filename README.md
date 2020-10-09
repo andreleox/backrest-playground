@@ -28,4 +28,5 @@ sudo su - backrest
 ```
 
 ### Basics 
-[Mindmap](https://github.com/andreleox/backrest-playground/blob/master/backrest.png)
+
+![Mindmap](https://github.com/andreleox/backrest-playground/blob/master/backrest.png)
