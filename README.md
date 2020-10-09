@@ -1,4 +1,4 @@
-# backrest-playground [work in progress]
+# PGbackrest-playground [work in progress]
 ### What is this? 
 It's and Pgbackrest environment conected with 2 Postgres clusters (VM) in order to do backup, restore and demostrate some capabilities of this great backup tool, like backup, delta restore, diferencial backups and so on. 
 
