@@ -3,18 +3,21 @@
 Simple Postgres environtment to play with pgbackrest backups and restores. 
 We are using Vagrant to create environtment, as follow: 
 
-```
-if (isAwesome){
-  return true
-}
-```
+### How to use it? 
 
-
-```bash
-if (isAwesome){
-  return true
-}
+1. Download repository on your computer
 ```
-1. teste 
-1. teste
-    1. culp
+git clone https://github.com/andreleox/backrest-playground
+```
+1. Use vagrant to start environtment
+```
+vagrant up
+```
+1. Show status of your environment
+```
+vagrant status
+```
+1. Show status of your environment
+```
+vagrant ssh backrest1
+```
