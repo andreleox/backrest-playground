@@ -11,6 +11,7 @@ We are using Vagrant to create environtment, as follow:
 1. Download repository on your computer
 ```
 git clone https://github.com/andreleox/backrest-playground
+cd backrest-playground
 ```
 2. Use vagrant to start environtment
 ```
