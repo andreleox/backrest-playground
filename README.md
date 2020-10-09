@@ -1,6 +1,6 @@
 # PGbackrest-playground [work in progress]
 ### What is this? 
-It's a Pgbackrest environment conected with 2 Postgres clusters (VM) in order demostrate some capabilities of this great backup tool, like backup, delta restore, diferencial backups and so on. 
+It's a Pgbackrest environment conected with 2 Postgres clusters (VM) in order to demostrate some capabilities of this great backup tool, like backup, delta restore, diferencial backups and so on. 
 
 ### Pre-requisites: 
 * Vagrant shuld be installed on you machine
