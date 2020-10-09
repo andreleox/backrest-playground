@@ -7,7 +7,6 @@ It's a Pgbackrest environment conected with 2 Postgres clusters (VM) in order to
 * Virtualization tool like Virtualbox, Hyperv
 
 ### Playground Architecture: 
-![Vagrant](https://github.com/andreleox/backrest-playground/blob/master/playground-architecture.png)
 
 
 ### How to use it? 
