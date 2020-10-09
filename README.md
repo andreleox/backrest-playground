@@ -6,7 +6,7 @@ It's a Pgbackrest environment conected with 2 Postgres clusters (VM) in order to
 * Vagrant shuld be installed on you machine
 * Virtualization tool like Virtualbox, Hyperv
 
-![Mindmap](https://github.com/andreleox/backrest-playground/blob/master/vagrant-architecture.png)
+![Mindmap](https://github.com/andreleox/backrest-playground/blob/master/playground-architecture.png)
 
 ### How to use it? 
 
