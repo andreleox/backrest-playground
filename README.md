@@ -1,6 +1,6 @@
 # backrest-playground [work in progress]
 ### What is this? 
-It's an environtment based on 2 Postgres virtual machines and 1 Pgbackrest conected to this clusters in order to do backup, restore and demostrate some capabilities of this great backup tool.   
+It's an environtment based on 2 Postgres virtual machines and 1 Pgbackrest conected to them in order to do backup, restore and demostrate some capabilities of this great backup tool.   
 
 
 to play with pgbackrest backups and restores. 
